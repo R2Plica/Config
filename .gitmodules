@@ -1,0 +1,3 @@
+[submodule "nixconfig"]
+	path = nixconfig
+	url = https://github.com/R2Plica/nixconfig.git
