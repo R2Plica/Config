@@ -1,3 +1,6 @@
 [submodule "nixconfig"]
 	path = nixconfig
 	url = https://github.com/R2Plica/nixconfig.git
+[submodule "doom-config"]
+	path = doom-config
+	url = https://github.com/R2Plica/doom-config.git
